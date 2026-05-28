@@ -1,0 +1,2 @@
+#Nemo 
+Nemo is a personal AI assistant that handles system services , review code , give reminders and anything that a personal assistant can do. It was inspired by J.A.R.V.I.S from iron man and is like OpenClaw without all the complex functionality. Nemo receives  input in form of speech  , the  speech is transcribed by an open source speech to text engine and is passed to a local ai model (qwen coder 2.5 ) currently and does the given task and gives transcribed output which is handled by a TTS engine , currently Kokoro
